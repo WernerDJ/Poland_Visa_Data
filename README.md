@@ -11,7 +11,7 @@ PL VISA: https://dane.gov.pl/dataset/1576,209e8d50-b703-4b71-a5c2-e1bff4ce6189/r
 ARDA: http://www.thearda.com/Archive/browse.asp
 The ARDA database was actualized up to the year 2010. No significative changes were assumed in macro economy indicators like the Human Development Index (HDI) or the most professed religions by country.
 
-There are only two years in the Polish Travel Visa database, 2018 and 2019, I decided to included only one year because neither politically, economically or almost in any sense are there any important differences between both years and because two years is too little to show any temporal progression. 
+There are only two years in the Polish Visa Permit database, 2018 and 2019, I decided to included only one year because neither politically, economically or almost in any sense are there any important differences between both years and because two years is too little to show any temporal progression. 
 
 # Conclusion
 
