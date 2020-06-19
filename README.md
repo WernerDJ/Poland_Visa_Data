@@ -25,6 +25,5 @@ Eliminating the Eastern European countries from the graphic leaves a picture in 
 In view of the analyzed data seems then that cultural closeness is an important factor in the Travel Visa Acceptance by the Polish authorities and that the professed religion might be taken as an indicator of that closeness. 
 A multivariate logistic regression analysis cound give more light into that matter however, taking into account some of the outliers, like Angola, Ethiopia, South Africa or Macedonia(see the screen capture with the name outliers.jpg in this folder, more variables should be taken into account and data coming from  the reports of personal Visa requests would be necessary to eliminate possible confounders.
 
-This study, code, csv files used and the notebook itself are free to use, copy, donwload and modify from the github repository https://github.com/WernerDJ/Poland_Visa_Data
-
-However I, Werner Deichmann Juan, retain the authorship (R) 2020 and thus any inclusion of this work or part of it in another one requires to mention the data source, that is me, of course.
+This study, code, csv files used and the notebook itself are free to use, copy, donwload and modify from this github repository 
+However I, Werner Deichmann Juan, retain the authorship (R) 2020 rights and thus any mention or partial use of this work requires citing the author of the mentioned source, that is myslef, of course.
