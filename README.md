@@ -21,6 +21,7 @@ The vast majority of the immigrants to Poland come from Eastern Europe, which is
 
 Eliminating the Eastern European countries from the graphic leaves a picture in which the most favoured countries when their HDI is taken into account are majoritarily Christian, and to a great extend Catholic. The graphic where countries are cloured by religion clearly shows that for HDI above 0.5 non Christian Countries have worse acceptance rates than Christian. 
 
+<img src="https://raw.githubusercontent.com/WernerDJ/Poland_Visa_Data/master/Outliers.jpeg" style="width: 1000px;"/>
 In view of the analyzed data seems then that cultural closeness is an important factor in the Travel Visa Acceptance by the Polish authorities and that the professed religion might be taken as an indicator of that closeness. 
 A multivariate logistic regression analysis cound give more light into that matter however, taking into account some of the outliers, like Angola, Ethiopia, South Africa or Macedonia(see the screen capture with the name outliers.jpg in this folder, more variables should be taken into account and data coming from  the reports of personal Visa requests would be necessary to eliminate possible confounders.
 
